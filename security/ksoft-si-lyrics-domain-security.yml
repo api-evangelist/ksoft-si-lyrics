@@ -1,0 +1,14 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: docs.ksoft.si
+  https: false
+domains:
+- domain: ksoft.si
+  dnssec: true
+  caa:
+  - 0 issue "pki.goog"
+  - 0 issue "letsencrypt.org"
+  spf: true
+  dmarc: false
