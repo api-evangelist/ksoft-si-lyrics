@@ -1,0 +1,21 @@
+# Front Door AI Index — ksoft-si-lyrics — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: ksoft-si-lyrics
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: docs.ksoft.si
+  final_host: null
+  ownership: own
+  owner: ksoft-si-lyrics
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null
