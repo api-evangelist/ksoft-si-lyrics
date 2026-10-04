@@ -39,7 +39,6 @@ apis:
   - name: KSoft.Si Lyrics
     description: "API to get lyrics for songs"
     humanURL: https://docs.ksoft.si/api/lyrics-api
-    baseURL: https://docs.ksoft.si/api/lyrics-api
     tags:
       - Music
     properties:
